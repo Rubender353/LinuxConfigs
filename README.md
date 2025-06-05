@@ -1,2 +1,2 @@
 # LinuxConfigs
-Linux config files
+Various Linux config files
